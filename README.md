@@ -6,7 +6,8 @@ SimpleTask project
  * Run `php artisan db:seed`,after you 
  * Start writing codes in app/Http/Controllers/Site & Admin folder
  * Set up models in app/Models folder
- * 
+ 
+
  ###[TODO]
  * Oauth2 machanism setup for rest api
  * Theme machanism setup
