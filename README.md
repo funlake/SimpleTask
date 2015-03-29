@@ -7,7 +7,7 @@ SimpleTask project
  * Start writing codes in app/Http/Controllers/Site & Admin folder
  * Set up models in app/Models folder
  * 
- [TODO]
+ ###[TODO]
  * Oauth2 machanism setup for rest api
  * Theme machanism setup
  * Block function setup
