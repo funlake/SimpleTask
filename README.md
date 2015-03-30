@@ -8,7 +8,7 @@ SimpleTask project
  * Models在app/Models目录内,Model核心方法为Search,可参考Category Model的写法。
  *
  ###[TODO]
-＝＝＝＝＝＝＝＝＝＝＝
+========================
  * Oauth2 machanism setup for rest api
  * Theme machanism setup
  * Block function setup
